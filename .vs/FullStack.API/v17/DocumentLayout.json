@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Web API\\FullStack.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8648E6-DB89-463D-969D-88417C4EE199}|FullStack.API\\FullStack.API.csproj|D:\\c#\\Web API\\FullStack.API\\fullstack.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8648E6-DB89-463D-969D-88417C4EE199}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8648E6-DB89-463D-969D-88417C4EE199}|FullStack.API\\FullStack.API.csproj|d:\\c#\\web api\\fullstack.api\\fullstack.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8648E6-DB89-463D-969D-88417C4EE199}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8648E6-DB89-463D-969D-88417C4EE199}|FullStack.API\\FullStack.API.csproj|D:\\c#\\Web API\\FullStack.API\\fullstack.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B8648E6-DB89-463D-969D-88417C4EE199}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8648E6-DB89-463D-969D-88417C4EE199}|FullStack.API\\FullStack.API.csproj|D:\\c#\\Web API\\FullStack.API\\fullstack.api\\data\\fullstackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8648E6-DB89-463D-969D-88417C4EE199}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\data\\fullstackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8648E6-DB89-463D-969D-88417C4EE199}|FullStack.API\\FullStack.API.csproj|D:\\c#\\Web API\\FullStack.API\\fullstack.api\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8648E6-DB89-463D-969D-88417C4EE199}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8648E6-DB89-463D-969D-88417C4EE199}|FullStack.API\\FullStack.API.csproj|D:\\c#\\Web API\\FullStack.API\\fullstack.api\\migrations\\20240405120654_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8648E6-DB89-463D-969D-88417C4EE199}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\migrations\\20240405120654_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\c#\\Web API\\FullStack.API\\FullStack.API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\c#\\Web API\\FullStack.API\\FullStack.API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "FullStack.API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:11:15.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240405120654_Initial Migration.cs",
+              "DocumentMoniker": "D:\\c#\\Web API\\FullStack.API\\FullStack.API\\Migrations\\20240405120654_Initial Migration.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Migrations\\20240405120654_Initial Migration.cs",
+              "ToolTip": "D:\\c#\\Web API\\FullStack.API\\FullStack.API\\Migrations\\20240405120654_Initial Migration.cs",
+              "RelativeToolTip": "FullStack.API\\Migrations\\20240405120654_Initial Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:06:55.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FullStackDbContext.cs",
+              "DocumentMoniker": "D:\\c#\\Web API\\FullStack.API\\FullStack.API\\Data\\FullStackDbContext.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Data\\FullStackDbContext.cs",
+              "ToolTip": "D:\\c#\\Web API\\FullStack.API\\FullStack.API\\Data\\FullStackDbContext.cs",
+              "RelativeToolTip": "FullStack.API\\Data\\FullStackDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:00:34.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c#\\Web API\\FullStack.API\\FullStack.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FullStack.API\\appsettings.json",
+              "ToolTip": "D:\\c#\\Web API\\FullStack.API\\FullStack.API\\appsettings.json",
+              "RelativeToolTip": "FullStack.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T11:46:49.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\Web API\\FullStack.API\\FullStack.API\\Program.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Program.cs",
+              "ToolTip": "D:\\c#\\Web API\\FullStack.API\\FullStack.API\\Program.cs",
+              "RelativeToolTip": "FullStack.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:46:40.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\c#\\Web API\\FullStack.API\\FullStack.API\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Model\\Employee.cs",
+              "ToolTip": "D:\\c#\\Web API\\FullStack.API\\FullStack.API\\Model\\Employee.cs",
+              "RelativeToolTip": "FullStack.API\\Model\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:34:11.354Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
